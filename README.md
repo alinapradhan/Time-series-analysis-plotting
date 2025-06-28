@@ -1,4 +1,4 @@
-# TTime-series-analysis-plotting for both stationary and non stationary
+# Time-series-analysis-plotting for both stationary and non stationary
 
 This repository contains two R scripts demonstrating core concepts and initial analysis techniques for time series data.
 
